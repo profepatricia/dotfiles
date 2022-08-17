@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = patricia.profedw@gmail.com
+	name = Patricia Litovicius
